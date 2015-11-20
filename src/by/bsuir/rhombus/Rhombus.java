@@ -10,7 +10,7 @@ public class Rhombus {
         super();
         this.color = DEFINE_COLOR;
 		System.out.println("cotic");
-		System.out.println("cotic");
+		
     }
 
     public int square(int a,int height)throws RhombusException{
